@@ -1,7 +1,9 @@
-import React from "react";
+// import React from "react";
 
-function Footer() {
-  return <div></div>;
-}
-
-export default Footer;
+// export default function Footer() {
+//   return (
+//     <footer>
+//       <p>&copy; vedant jangid 2022</p>
+//     </footer>
+//   );
+// }
